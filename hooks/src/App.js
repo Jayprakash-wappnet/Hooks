@@ -1,5 +1,5 @@
 import './App.css';
-import UseEffectProps from './UseEffectProps';
+import UseEffectProps from './components/UseEffectProps';
 import UseEffect1 from './components/UseEffect1';
 import UseState from './components/UseState';
 import React,{useState} from 'react';
